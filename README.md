@@ -1,6 +1,12 @@
 # Churn_chez_Pinky
 à partir d'un échantillon représentatif de la base de données client, faire une description des caractéristiques clients et proposer un algorithme de détection des clients à risque
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/maite31450/Churn_chez_Pinky/blob/main/telecom_backg.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/maite31450/Churn_chez_Pinky/blob/main/telecom_backg.jpg">
+ <img alt="churning in telecom" src="telecom_backg.jpg">
+</picture>
+
 
 Synopsis
 Le client est "Pinky" une entreprise de télécommunication, qui vend des forfaits téléphonique et internet. 
